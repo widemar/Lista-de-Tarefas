@@ -1,5 +1,5 @@
 # Lista de Tarefas
-Lista de tarefas criada com a linguagem de programação Dart e o framework Flutter.
+Lista de tarefas desenvolvida com a linguagem de programação Dart e o framework Flutter.
 
 Link pra visualizar o projeto: https://widemar.github.io/Lista-de-Tarefas/#/
 
